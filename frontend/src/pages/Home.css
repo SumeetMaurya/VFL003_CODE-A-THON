@@ -32,7 +32,7 @@
   background: rgba(0, 0, 0, 0.1);
   cursor: pointer;
   position: relative;
-  top: -69vh;
+  top: -55vh;
   left: 1.5vh;
   z-index: 0;
   border-radius: 20px;
@@ -100,8 +100,8 @@
     font-size:2vh;
     position: relative;
     width: 100px;
-    top: 0vh;
-    left: 10.5vh;
+    top: 10vh;
+    left: 10.8vh;
   }
   
   .content h4 {

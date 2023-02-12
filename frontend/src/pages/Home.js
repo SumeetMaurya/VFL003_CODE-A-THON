@@ -90,7 +90,7 @@ function Home() {
         <div id="page">
         <section>
             <div class="content">
-              <img src="https://s3.gifyu.com/images/E-dukan-4.gif" alt="E-dukan" width={250} />
+              <img src="https://s9.gifyu.com/images/E-dukan-5.gif" alt="E-dukan" width={250} />
             </div>
           </section>
     </div>
